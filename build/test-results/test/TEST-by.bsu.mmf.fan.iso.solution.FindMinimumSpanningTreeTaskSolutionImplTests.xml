@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="by.bsu.mmf.fan.iso.solution.FindMinimumSpanningTreeTaskSolutionImplTests" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-11-21T14:48:21" hostname="DESKTOP-T7R3JT4" time="11.944">
+  <properties/>
+  <testcase name="bigSpanningTree(ContiguousIntegerBasicGraph)[1]" classname="by.bsu.mmf.fan.iso.solution.FindMinimumSpanningTreeTaskSolutionImplTests" time="0.007"/>
+  <testcase name="bigSpanningTree(ContiguousIntegerBasicGraph)[2]" classname="by.bsu.mmf.fan.iso.solution.FindMinimumSpanningTreeTaskSolutionImplTests" time="0.015"/>
+  <testcase name="bigSpanningTree(ContiguousIntegerBasicGraph)[3]" classname="by.bsu.mmf.fan.iso.solution.FindMinimumSpanningTreeTaskSolutionImplTests" time="0.209"/>
+  <testcase name="bigSpanningTree(ContiguousIntegerBasicGraph)[4]" classname="by.bsu.mmf.fan.iso.solution.FindMinimumSpanningTreeTaskSolutionImplTests" time="0.478"/>
+  <testcase name="bigSpanningTree(ContiguousIntegerBasicGraph)[5]" classname="by.bsu.mmf.fan.iso.solution.FindMinimumSpanningTreeTaskSolutionImplTests" time="0.558"/>
+  <testcase name="bigSpanningTree(ContiguousIntegerBasicGraph)[6]" classname="by.bsu.mmf.fan.iso.solution.FindMinimumSpanningTreeTaskSolutionImplTests" time="0.656"/>
+  <testcase name="bigSpanningTree(ContiguousIntegerBasicGraph)[7]" classname="by.bsu.mmf.fan.iso.solution.FindMinimumSpanningTreeTaskSolutionImplTests" time="0.762"/>
+  <testcase name="bigSpanningTree(ContiguousIntegerBasicGraph)[8]" classname="by.bsu.mmf.fan.iso.solution.FindMinimumSpanningTreeTaskSolutionImplTests" time="0.679"/>
+  <testcase name="smallSpanningTree(ContiguousIntegerBasicGraph, int)[1]" classname="by.bsu.mmf.fan.iso.solution.FindMinimumSpanningTreeTaskSolutionImplTests" time="0.005"/>
+  <testcase name="smallSpanningTree(ContiguousIntegerBasicGraph, int)[2]" classname="by.bsu.mmf.fan.iso.solution.FindMinimumSpanningTreeTaskSolutionImplTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

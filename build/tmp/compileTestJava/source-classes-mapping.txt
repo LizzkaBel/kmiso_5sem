@@ -1,0 +1,8 @@
+by/bsu/mmf/fan/iso/solution/FindMinimumSpanningTreeTaskSolutionImplTests.java
+ by.bsu.mmf.fan.iso.solution.FindMinimumSpanningTreeTaskSolutionImplTests
+by/bsu/mmf/fan/iso/solution/FindShortestPathSolutionImplTests.java
+ by.bsu.mmf.fan.iso.solution.FindShortestPathSolutionImplTests
+by/bsu/mmf/fan/iso/testing/StronglyConnectedGraphGeneratorTest.java
+ by.bsu.mmf.fan.iso.testing.StronglyConnectedGraphGeneratorTest
+by/bsu/mmf/fan/iso/solution/FindAllShortestPathsSolutionImplTests.java
+ by.bsu.mmf.fan.iso.solution.FindAllShortestPathsSolutionImplTests

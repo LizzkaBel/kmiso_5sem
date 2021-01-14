@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="by.bsu.mmf.fan.iso.solution.FindShortestPathSolutionImplTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-11-21T14:48:33" hostname="DESKTOP-T7R3JT4" time="0.81">
+  <properties/>
+  <testcase name="noDirectPathShortestPath()" classname="by.bsu.mmf.fan.iso.solution.FindShortestPathSolutionImplTests" time="0.002"/>
+  <testcase name="basicShortestPath()" classname="by.bsu.mmf.fan.iso.solution.FindShortestPathSolutionImplTests" time="0.001"/>
+  <testcase name="bigGraphShortestPath(ContiguousIntegerBasicGraph, Integer, Integer)[1]" classname="by.bsu.mmf.fan.iso.solution.FindShortestPathSolutionImplTests" time="0.003"/>
+  <testcase name="bigGraphShortestPath(ContiguousIntegerBasicGraph, Integer, Integer)[2]" classname="by.bsu.mmf.fan.iso.solution.FindShortestPathSolutionImplTests" time="0.011"/>
+  <testcase name="bigGraphShortestPath(ContiguousIntegerBasicGraph, Integer, Integer)[3]" classname="by.bsu.mmf.fan.iso.solution.FindShortestPathSolutionImplTests" time="0.251"/>
+  <testcase name="smallGraphShortestPath()" classname="by.bsu.mmf.fan.iso.solution.FindShortestPathSolutionImplTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

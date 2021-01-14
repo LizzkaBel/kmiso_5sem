@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="by.bsu.mmf.fan.iso.solution.FindAllShortestPathsSolutionImplTests" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-11-21T14:48:20" hostname="DESKTOP-T7R3JT4" time="0.358">
+  <properties/>
+  <testcase name="noDirectPathShortestPath()" classname="by.bsu.mmf.fan.iso.solution.FindAllShortestPathsSolutionImplTests" time="0.096"/>
+  <testcase name="basicShortestPath()" classname="by.bsu.mmf.fan.iso.solution.FindAllShortestPathsSolutionImplTests" time="0.001"/>
+  <testcase name="bigGraphShortestPath(ContiguousIntegerBasicGraph, List)[1]" classname="by.bsu.mmf.fan.iso.solution.FindAllShortestPathsSolutionImplTests" time="0.062"/>
+  <testcase name="bigGraphShortestPath(ContiguousIntegerBasicGraph, List)[2]" classname="by.bsu.mmf.fan.iso.solution.FindAllShortestPathsSolutionImplTests" time="0.021"/>
+  <testcase name="bigGraphShortestPath(ContiguousIntegerBasicGraph, List)[3]" classname="by.bsu.mmf.fan.iso.solution.FindAllShortestPathsSolutionImplTests" time="0.025"/>
+  <testcase name="bigGraphShortestPath(ContiguousIntegerBasicGraph, List)[4]" classname="by.bsu.mmf.fan.iso.solution.FindAllShortestPathsSolutionImplTests" time="0.018"/>
+  <testcase name="smallGraphShortestPath()" classname="by.bsu.mmf.fan.iso.solution.FindAllShortestPathsSolutionImplTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

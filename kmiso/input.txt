@@ -1,0 +1,14 @@
+8 13
+s a 4 0
+s b 5 0
+s c 3 3
+c f 7 3
+b f 7 0
+a b 9 0
+a d 8 0
+e a 8 0
+e f 8 0
+f t 7 3
+e t 6 0
+d t 7 0
+e d 9 0
